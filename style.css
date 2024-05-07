@@ -1,0 +1,15 @@
+.button-1{
+    border-radius: 12px;
+    background-color: #333;
+    color: white;
+}
+
+.button-2{
+    border-radius: 55%;
+    display: block;
+}
+
+.button-3{
+    background-color: rgb(59, 99, 211);
+    color: white;
+}
